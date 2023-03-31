@@ -1,5 +1,5 @@
 # React Pokedex
-In this app, I practiced creating React components and passing/accessing props by creating two "Pokedexes". Each one is generated randomly from a set of Pokemon, and each Pokemon has base experience points. The "Pokedex" with the higher total experience "wins." Refresh the page to generate a new set of Pokedexes.
+With this app, I practiced creating React components and passing/accessing props by creating two "Pokedexes". Each one is generated randomly from a set of Pokemon, and each Pokemon has base experience points. The "Pokedex" with the higher total experience "wins." Refresh the page to generate a new set of Pokedexes.
 
 <p align="center">
      <img width="50%" src="app.png" alt="App">
