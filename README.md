@@ -14,5 +14,5 @@ In this app, I practiced creating React components and passing/accessing props b
 ## My Contribution
 I was not given any starter code for this app. I used create-react-app to generate the boilerplate code, and I was given an array of Pokemon objects to work with:
 <p align="center">
-     <img width="50%" src="app.png" alt="Supplied Pokemon Array">
+     <img width="50%" src="pokemon-array.png" alt="Supplied Pokemon Array">
 </p>
